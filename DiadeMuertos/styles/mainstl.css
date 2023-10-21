@@ -1,0 +1,21 @@
+
+#backg{background-image: url("../src/backg1.png"); background-size: cover; text-align: center;padding: 20px 20px 20px 20px; text-align: center;}
+#tit{text-align: center;}
+#bod{border-radius: 5px;text-align: center;padding: 20px 20px 20px 20px;}
+h1{color: orange; text-shadow: 4px 0 purple, -4px 0 purple, 0 4px purple, 0 -4px purple,
+    2px 2px purple, -2px -2px purple, 2px -2px purple, -2px 2px purple;}
+h4{text-shadow: 2px 0 white, -2px 0 white, 0 2px white, 0 -2px white,
+    1px 1px white, -1px -1px white, 1px -1px white, -1px 1px white;}
+#subimg{max-height: 100px;}
+#timg{max-height: 200px;}
+#crtlr{max-height: 120px;}
+#evt{padding: 20px 20px 20px 20px; text-align: center; border-radius: 5px; background-color: white;margin: 10px 10px 10px 10px; color: orange; text-shadow: 2px 0 purple, -2px 0 purple, 0 2px purple, 0 -2px purple,
+    1px 1px purple, -1px -1px purple, 1px -1px purple, -1px 1px purple;}
+#mi{background-image: url("../src/ticketborder.png"); background-size: 100px 45px;width: 100px; height: 45px;}
+#mi:hover{background-image: url("../src/ticket.png");}
+img[src*="src/evts/"]{max-height: 120px;margin: 5px;}
+button[class~="btn-sm"]{background-image: url("../src/ticketborder.png"); background-size: 100px 40px;width: 100px; height: 40px;}
+button[class~="btn-sm"]:hover{background-image: url("../src/ticket.png"); background-size: 100px 40px;width: 100px; height: 40px;}
+div[class="modal-header"]{background-color: #D896FF;}
+div[class="modal-body"]{color: black;text-shadow: none;}
+#izq{text-align: left;}
