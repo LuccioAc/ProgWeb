@@ -1,0 +1,5 @@
+img[src*="icons/"]{height: 70px;width: 70px;}
+div[class="container"]{text-align: center;}
+#btxt{color: #00548C}
+div[class="container-fluid"]{padding: 20px 20px 20px 20px;}
+img[src*="icons/"]:hover{height: 90px;width: 90px;}

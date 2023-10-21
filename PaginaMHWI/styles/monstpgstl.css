@@ -1,0 +1,24 @@
+#pcptbl{border-collapse: collapse;text-align: center;}
+#pcptbl tr,#pcptbl th{border: 1px solid lightblue; width: 80px;padding: 3px 3px 3px 3px;}
+#pcptbl td{width: 80px;padding: 3px 3px 3px 3px;}
+
+#colbrdr td{border: 1px solid lightblue;}
+
+#wktbl{border-collapse: collapse;text-align: center;}
+#wktbl th{border: 1px solid lightblue; width: 80px;padding: 5px 5px 5px 5px;}
+#wktbl td{width: 200px; padding: 5px 5px 5px 5px;}
+
+img[src*="../elements/"]{height: 30px;width: 30px;}
+img[src*="../othericons/"]{height: 20%;width: 20%;}
+img[src*="../mnstrweekpoints/"]{max-height: 350px;}
+#mstrp{max-height: 400px;}
+#mstrprv{max-height: 100px;}
+h2{color: #00548C;}
+p{color: #488888;}
+div[class="container-fluid"],div[class="container"]{
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+}
+#pcptbl tr:hover{background-color: #F4F9FF;}#pcptbl th:hover{background-color: #E8F5FF;}
+#wktbl tr:hover{background-color: #F4F9FF;}#wktbl th:hover{background-color: #E8F5FF;}
+#mstrprv:hover{max-height: 130px;}
